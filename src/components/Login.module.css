@@ -1,0 +1,27 @@
+.login {
+    width: 50%;
+    padding: 10%;
+    margin: auto;
+    border: 2px solid rgb(136, 135, 135);
+    border-radius: 25px;
+    margin-top: 50px;
+}
+
+.button {
+    width: 100%;
+    margin-top: 10px;
+}
+
+.error {
+    color: red;
+    text-align: center;
+}
+
+.invalid label {
+    color: #ca3e51;
+}
+
+.invalid input {
+    border-color: #aa0b20;
+    background-color: #ffeff1;
+}
